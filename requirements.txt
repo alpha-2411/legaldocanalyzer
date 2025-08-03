@@ -1,0 +1,15 @@
+PyPDF2==3.0.1
+scikit-learn==1.5.0
+joblib==1.4.2
+numpy==1.26.4
+pandas==2.2.2
+tensorflow==2.15.0
+matplotlib==3.9.0
+seaborn==0.13.2
+spacy==3.7.4
+streamlit==1.35.0
+transformers==4.41.1
+torch==2.3.1
+sentencepiece==0.2.0
+python-docx
+nltk
